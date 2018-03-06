@@ -18,7 +18,7 @@ public class Main {
             {
                 if (i == 0)
                 {
-                    result += words[i] ;
+                    result += words[i];
                 }
                 else
                 {
