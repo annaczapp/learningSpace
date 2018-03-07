@@ -1,6 +1,6 @@
-package com.company;
+package com.learningSpace;
 
-import static com.company.Main.ReverseWords.reverseWords;
+import static com.learningSpace.Main.ReverseWords.reverseWords;
 
 public class Main {
 
@@ -22,7 +22,7 @@ public class Main {
                 }
                 else
                 {
-                    result += words[i] + "  ";
+                    result += words[i] + "   ";
                 }
             }
             return result;
