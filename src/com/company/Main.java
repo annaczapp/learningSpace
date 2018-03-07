@@ -22,7 +22,7 @@ public class Main {
                 }
                 else
                 {
-                    result += words[i] + " ";
+                    result += words[i] + "  ";
                 }
             }
             return result;
