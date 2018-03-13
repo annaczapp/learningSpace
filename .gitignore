@@ -9,10 +9,12 @@
 **/logs
 **/out
 
+out
 .idea/
 **/gen/**
 
 components/app/**/dist
 
 classes
+
 
